@@ -1,5 +1,5 @@
 # FXCalculator
-  <b>FX Calculator</b> to program stworzony przy uzyciu JavaFX.<br />
+        This is my first project with <b>JavaFX</b>, <s>not so</s> simple calculator
         Głównym celem powstania tego programu było zdobycie praktycznych umiejętności posługiwania się biblioteką <b>JavaFX</b>.<br />
         Kalkulator, oprócz zwykłych obliczeń, wyposażony został również w funkcję przeliczania liczb na/z system binarny.<br />
         Zastosowane zostały wyrażenia regularne <b>RegEx</b> w celu usunięcia błędów związanych ze wstawianiem przecinka.<br /><br />
